@@ -62,7 +62,7 @@ Desktop Interface
 ## 🖥️ Supported Systems
 - **Windows** ✅
 
-## ⚠️ Risks
+## ⚠️ Risks!
 - **Potential Dangerous Operations by the Model**: The models' performance is still limited and may generate unintended or potentially harmful outputs. Recommend continuously monitoring the AI's actions. 
 - **Cost Control Challenges**: Each task may cost a few dollars. We'll optimize this in the future. 💸
 
